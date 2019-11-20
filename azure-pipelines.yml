@@ -16,4 +16,4 @@ steps:
     includeRootFolder: false
 - task: PublishBuildArtifacts@1
 
-- script: python -mhtml sample.html
+- script: python -mhtmllib sample.html
